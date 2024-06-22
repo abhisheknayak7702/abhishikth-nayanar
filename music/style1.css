@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(178, 192, 237);
+}
+.anil1{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.anil{
+    text-align: center;
+    border-radius: 30mm;
+    image-resolution: calc();
+    width: 100px;
+    
+}
+.text1{
+    text-align: center;
+}
+.texting{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: black;
+    cursor: pointer;
+}
+.read{
+    font-size: small;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+.color{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 5mm;
+    width: 120px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 690px;
+    margin-top: 30px;
+
+}
+
+.color1,{
+    color: black;
+    cursor: pointer;
+    
+    
+
+}
+.p{
+    display: inline;
+}
+.samantha{
+    background-color: whitesmoke;
+    width: 250px;
+    text-align: center;
+    border-radius: 3mm;
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    margin-left: 630px;
+    cursor: pointer;
+    
+}
+.anushka{
+    background-color: rgb(139, 139, 139);
+    width: 250px;
+    text-align: center;
+    border-radius: 3mm;
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    
+    margin-left: 630px;
+    margin-bottom: 60px;
+    
+
+}

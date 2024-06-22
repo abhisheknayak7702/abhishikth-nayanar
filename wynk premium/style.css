@@ -1,0 +1,73 @@
+body{
+    width: auto;
+    height:600%;background-color: black;
+}
+.image{
+    text-align: center;
+    border-width: thick;
+    border-color: white;
+    vertical-align: top;
+}
+.h{
+    float:right;
+    width: 50% ;
+}
+.h2{
+    text-align: center;
+}
+.abhi{
+    background-color: rgb(11, 10, 10);
+    width: 30%;
+    height: 80%;
+    text-align: center;
+    margin-left: 550px;
+    border-color: rgb(239, 209, 15);
+    border-radius: 4mm;
+    border-width: thick;
+    border-style: solid;
+}
+
+.h1{
+    text-align: center;
+}
+.abhi,p{
+    text-align: center;
+    color: grey;
+}.plan{
+    text-align: center;
+    padding-top: 50px;
+    margin-right: 250px;
+}
+.text{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    font-style: oblique;padding-top: 30px;
+    padding-bottom: 30px;
+}
+.abhi7{
+    background-color: rgb(11, 10, 10);
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    margin-left: 550px;
+    border-color: rgb(235, 185, 20);
+    border-radius: 4mm;
+    border-width: thick;
+    border-style: solid;
+}
+.abhi7,h2
+{
+height: 30%;
+
+    text-align: center;
+}
+.a5{
+    text-align: center;
+    width: 30%;
+    margin-left: 550px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}

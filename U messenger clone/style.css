@@ -1,0 +1,22 @@
+
+body{
+    background-color: white;
+
+
+    
+}
+.u1{
+    text-align: center;
+    display: inline;
+    align-items: center;
+    margin-left: 550px;
+    
+    
+    
+}
+.img{
+    display: inline-flex;
+}
+.br{
+    color: aqua;
+}
